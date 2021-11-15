@@ -1,0 +1,37 @@
+
+#div1{
+    width:6cm;
+    height: 6cm;
+    border:1px solid black;
+   
+}
+#div2{
+    width:6cm;
+    height: 6cm;
+    padding: :10px;
+    border:1px solid black;
+}
+#div3{
+    width:6cm;
+    height: 6cm;
+    padding: :10px;
+    position:absolute;
+    left:7cm;
+    top:0.2cm;
+    border:1px solid black;
+}
+#div4{
+    width:6cm;
+    height: 6cm;
+    padding: :10px;
+    position:absolute;
+    left:7cm;
+    top:6.3cm;   
+    border:1px solid black;
+}
+
+#drag1,#drag2,#drag3,#drag4{
+
+    width:6cm;
+    height: 6cm;   
+}
